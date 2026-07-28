@@ -5,6 +5,7 @@
 #
 # Start:
 #   docker compose -f docker-compose.sit.yml up -d
+#   docker compose --env-file .env -f docker-compose.sit.yml up -d
 #
 # Access:
 #   http://117.162.7.154:8200
